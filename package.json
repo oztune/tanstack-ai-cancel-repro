@@ -1,0 +1,11 @@
+{
+  "name": "tanstack-ai-cancel-repro",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "tsx index.ts" },
+  "dependencies": {
+    "@tanstack/ai": "0.54.0",
+    "@tanstack/ai-persistence": "0.5.7",
+    "tsx": "^4.20.0"
+  }
+}
